@@ -14,7 +14,7 @@ This project explores the principles of evolutionary optimisation through the re
 
 ![Evolutionary Optimisation](images/evolutionary_optimisation.png)
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
 © 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
