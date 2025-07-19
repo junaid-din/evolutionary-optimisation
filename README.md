@@ -1,6 +1,10 @@
 ## Evolutionary Optimisation Project 
 
-Created by [Junaid Din](https://github.com/junaid-din)
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
+
 
 This project explores the principles of evolutionary optimisation through the reconstruction of a target text sequence—referred to as the master sequence, using random generation and mutation-based evolution. The goal is to mutate a random text sequence through corruption until it is indistinguishable from the original and then take the corrupted text, and have this evolve over generations so that they converge toward athe original. This simulates how optimisation algorithms can refine solutions over time, inspired by biological evolution.
 
