@@ -7,7 +7,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 
-This project explores the principles of evolutionary optimisation through the reconstruction of a target text sequence—referred to as the master sequence, using random generation and mutation-based evolution. The goal is to mutate a random text sequence through corruption until it is indistinguishable from the original and then take the corrupted text, and have this evolve over generations so that they converge toward athe original. This simulates how optimisation algorithms can refine solutions over time, inspired by biological evolution.
+This project explores the principles of evolutionary optimisation through the reconstruction of a target text sequence referred to as the master sequence, using random generation and mutation-based evolution. The goal is to mutate a random text sequence through corruption until it is indistinguishable from the original and then take the corrupted text, and have this evolve over generations so that they converge toward athe original. This simulates how optimisation algorithms can refine solutions over time, inspired by biological evolution.
 
 * Selected the master sequence from the first two lines of a Shakespeare sonnet based on student number.
 * Generated N random sequences of the same length using letters of the alphabet.
